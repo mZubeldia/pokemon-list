@@ -1,7 +1,6 @@
-<h1 align="center">Módulo 3: Ejercicio de evaluación intermedia</h1>
-<h3 align="center">¡Hola! 👋, esta es mi evaluación intermedia del módulo 3 de Adalab.</h3>
+<h1 align="center">¡Bienvenida a este repo! 👋</h1>
 
-<h3>🚩 El objetivo es desarrollar una página web sencilla con React.</h3>
+<h3>🚩 El objetivo de este proyecto era desarrollar una página web sencilla con React.</h3>
 <p>⚽ Esta web consiste en generar un listado de tipos de Pokemon, con su nombre, imagen y tipo(s) a partir de una API.</p>
 
 <p>💡Para iniciar el proyecto en local, recuerda introducir los siguientes comandos en la terminal:</p>
